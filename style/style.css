@@ -1,0 +1,31 @@
+html {
+  font-family: "Open Sans", sans-serif;
+background-image: url(../imagine/space.jpeg);  
+}
+
+body {
+  width: 800px;;
+  margin: 20px auto;
+  background-color: rgb(106, 140, 160);
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 5px red;
+}
+
+img{
+  max-width: 100%;
+  height: auto;
+}
+h2{
+  text-align: left;
+  text-shadow: 2px 2px 5px rgb(43, 255, 0);
+
+}
+footer {
+  text-decoration: dashed;
+}
